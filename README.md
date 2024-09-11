@@ -1,2 +1,2 @@
-# test-osd
+# test-DIR
 playground for new DIR initiative
