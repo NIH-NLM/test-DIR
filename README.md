@@ -1,2 +1,2 @@
 # test-osd
-playground for new OSD initiative
+playground for new DIR initiative
